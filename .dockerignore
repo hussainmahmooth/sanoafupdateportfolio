@@ -1,0 +1,10 @@
+data
+node_modules
+.git
+.env
+.env.*
+tests
+*.log
+scss
+lib
+bootstrap-cv-resume-template.jpg
