@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/api/portfolio", "destination": "/api/portfolio.js" },
+    { "source": "/api/session", "destination": "/api/session.js" },
+    { "source": "/admin", "destination": "/admin.html" }
+  ]
+}
