@@ -1,0 +1,290 @@
+{
+  "revision": 1,
+  "profile": {
+    "name": "Naazim Sanoaf",
+    "role": "Commis Pastry Chef",
+    "tagline": "Pastries, cakes and desserts, crafted with care.",
+    "introduction": "I’m Naazim Sanoaf, a commis pastry chef from Kalmunai, Sri Lanka. My work spans dough preparation, cake decoration and dessert presentation, drawing on experience at EL&N Café and my hometown bakery. I enjoy bringing care and creativity to every bake, working with fellow chefs and exploring seasonal ideas while keeping quality and kitchen hygiene at the heart of the process.",
+    "location": "Kalmunai, Sri Lanka",
+    "email": "naazimsanoaf@gmail.com",
+    "phone": "+94 75 565 6480",
+    "availability": "Taking orders",
+    "portrait": "/img/WhatsApp%20Image%202025-05-20%20at%2021.46.44_2db4882c.jpg",
+    "resume": "/NAAZIM%20SANOAF.pdf",
+    "socials": {
+      "instagram": "https://www.instagram.com/sanoafabooucker?igsh=aXpkNTAweDljNXlk",
+      "linkedin": "https://www.linkedin.com/in/naazim-sanoaf-659617365",
+      "facebook": "https://www.facebook.com/share/18qFs5kRhy/",
+      "whatsapp": "https://wa.me/qr/ATATJRLZHSFXC1"
+    }
+  },
+  "specialties": [
+    "Baking & pastry",
+    "Cake decoration",
+    "Dessert plating & presentation",
+    "Recipe creation"
+  ],
+  "experience": [
+    {
+      "role": "Pastry Commis",
+      "workplace": "EL&N Café",
+      "period": "2024 – Present",
+      "description": "Assisted senior chefs in preparing pastries, cakes and desserts, with attention to quality, taste, texture and presentation."
+    },
+    {
+      "role": "Baker",
+      "workplace": "Hometown bakery",
+      "period": "September 2023 – August 2024",
+      "description": "Managed daily baking operations, maintained quality and presentation standards, developed recipes and followed food safety practices."
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-f1",
+      "title": "Mixed berry celebration cake",
+      "category": "Cakes",
+      "description": "A purple-frosted cake finished with a ring of mixed berries.",
+      "date": "",
+      "image": "/img/f1.jpg",
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "project-fd1",
+      "title": "Chocolate celebration cake",
+      "category": "Cakes",
+      "description": "A tall chocolate-finished cake decorated with berries, biscuits and small hearts.",
+      "date": "",
+      "image": "/img/fd1.jpg",
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "project-f17",
+      "title": "Raspberry layer cake",
+      "category": "Cakes",
+      "description": "A layered cake finished with raspberries and a textured green topping.",
+      "date": "",
+      "image": "/img/f17.jpg",
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "project-f10",
+      "title": "Berry tray dessert",
+      "category": "Desserts",
+      "description": "A neatly portioned tray dessert with a smooth white finish and berry decoration.",
+      "date": "",
+      "image": "/img/f10.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f9",
+      "title": "Sesame-topped round bread",
+      "category": "Breads",
+      "description": "A round golden loaf with a generous sesame topping.",
+      "date": "",
+      "image": "/img/f9.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f5",
+      "title": "Pizza fresh from the oven",
+      "category": "Savoury",
+      "description": "A baked pizza with a golden crust and melted topping.",
+      "date": "",
+      "image": "/img/f5.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f15",
+      "title": "Strawberry tartlet",
+      "category": "Desserts",
+      "description": "An individual tartlet with a white filling, strawberry garnish and green topping.",
+      "date": "",
+      "image": "/img/f15.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-fd3",
+      "title": "Golden bread rolls",
+      "category": "Breads",
+      "description": "Rows of round bread rolls with a glossy golden finish.",
+      "date": "",
+      "image": "/img/fd3.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f14",
+      "title": "Bread loaves from the kitchen",
+      "category": "Breads",
+      "description": "A batch of golden rectangular bread loaves.",
+      "date": "",
+      "image": "/img/f14.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-fd4",
+      "title": "Mixed berry bowl",
+      "category": "Desserts",
+      "description": "A bowl of mixed berries and a textured topping.",
+      "date": "",
+      "image": "/img/fd4.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f11",
+      "title": "Cream-rosette tray dessert",
+      "category": "Desserts",
+      "description": "A white tray dessert with piped rosettes and small pink garnishes.",
+      "date": "",
+      "image": "/img/f11.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f13",
+      "title": "Golden-topped tray desserts",
+      "category": "Desserts",
+      "description": "A batch of rectangular tray desserts with a golden surface and neat portions.",
+      "date": "",
+      "image": "/img/f13.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f2",
+      "title": "Pizza preparation: final topping",
+      "category": "Savoury",
+      "description": "A kitchen preparation view of a pizza before baking.",
+      "date": "",
+      "image": "/img/f2.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f3",
+      "title": "Pizza preparation in the kitchen",
+      "category": "Savoury",
+      "description": "A pair of pizzas being prepared on baking trays.",
+      "date": "",
+      "image": "/img/f3.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f4",
+      "title": "Pizza preparation: close-up",
+      "category": "Savoury",
+      "description": "A close-up of toppings arranged on a pizza base.",
+      "date": "",
+      "image": "/img/f4.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f6",
+      "title": "Pizza preparation: ready for the oven",
+      "category": "Savoury",
+      "description": "Prepared pizzas on trays before baking.",
+      "date": "",
+      "image": "/img/f6.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f7",
+      "title": "Baked pizza: kitchen close-up",
+      "category": "Savoury",
+      "description": "A close-up of baked pizza with a browned crust and melted topping.",
+      "date": "",
+      "image": "/img/f7.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f8",
+      "title": "Baked pizza: another view",
+      "category": "Savoury",
+      "description": "A second kitchen view of a batch of baked pizzas.",
+      "date": "",
+      "image": "/img/f8.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f12",
+      "title": "Berry tray dessert: finishing details",
+      "category": "Desserts",
+      "description": "Berry-topped portions alongside a tray finished with piped rosettes.",
+      "date": "",
+      "image": "/img/f12.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-f16",
+      "title": "Layer cake: a closer look",
+      "category": "Cakes",
+      "description": "A close-up of the cake layers and raspberry decoration.",
+      "date": "",
+      "image": "/img/f16.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-fd2",
+      "title": "Tray desserts: the full batch",
+      "category": "Desserts",
+      "description": "Another view of neatly portioned tray desserts with a golden topping.",
+      "date": "",
+      "image": "/img/fd2.jpg",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "project-fd5",
+      "title": "Bread loaves: a closer look",
+      "category": "Breads",
+      "description": "A closer view of a batch of golden bread loaves.",
+      "date": "",
+      "image": "/img/fd5.jpg",
+      "featured": false,
+      "published": true
+    }
+  ],
+  "thoughts": [],
+  "reviews": [
+    {
+      "id": "review-lily-adams",
+      "name": "Lily Adams",
+      "context": "Food Blogger & Influencer",
+      "quote": "As a food blogger, I’ve worked with many pastry chefs, but none have impressed me as much as NAAZIM SANOAF. His desserts are not only visually stunning but bursting with flavor. I had the opportunity to attend one of his dessert workshops, and his passion for baking and food styling is contagious. I look forward to collaborating again in the future!",
+      "rating": 0,
+      "published": true
+    },
+    {
+      "id": "review-john-edwards",
+      "name": "John Edwards",
+      "context": "Corporate Event Planner",
+      "quote": "We hired NAAZIM SANOAF to cater a corporate event, and he exceeded our expectations. From the beautifully crafted mini desserts to the impeccable presentation of the dessert buffet, everything was perfect. His professionalism and skill were evident, and we received rave reviews from our guests. I look forward to working with him on future events.",
+      "rating": 0,
+      "published": true
+    },
+    {
+      "id": "review-sarah-mitchell",
+      "name": "Sarah Mitchell",
+      "context": "Restaurant Owner",
+      "quote": "I've worked with a lot of chefs, but SANOAF's creativity and dedication to his craft set him apart. He designed a custom dessert menu for our restaurant that quickly became a customer favorite. His pastries are always on-point, and the presentation is nothing short of artistic. Highly recommend him for anyone looking for top-tier pastry expertise.",
+      "rating": 0,
+      "published": true
+    }
+  ]
+}

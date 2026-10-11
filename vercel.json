@@ -1,8 +1,8 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/api/portfolio", "destination": "/api/portfolio.js" },
-    { "source": "/api/session", "destination": "/api/session.js" },
+    { "source": "/api/portfolio", "destination": "/api/portfolio.json" },
+    { "source": "/api/session", "destination": "/api/session.json" },
     { "source": "/admin", "destination": "/admin.html" }
   ]
 }
